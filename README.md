@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FallBack</h1>
+<h1 align="center">Hi 👋, I'm DuckCode</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f4llback" alt="f4llback" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
